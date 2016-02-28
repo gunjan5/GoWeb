@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 	"os"
-	//"io"
+	"io"
 	"fmt"
 
 	"github.com/russross/blackfriday"
